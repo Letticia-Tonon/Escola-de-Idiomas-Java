@@ -3,7 +3,8 @@ Trabalho desenvolvido na disciplina "Laboratório de Banco de Dados", consiste s
 
 Classes: Alunos, Aulas, Certificados, Cursos, Matriculas, Notas, Pagamentos, Professores
 Interface:
-![image](https://github.com/Letticia-Tonon/Escola-de-Idiomas-Java/assets/102087529/2b8e15a8-0223-49fc-ba7a-7c5735cdb46b)
+![image](https://github.com/Letticia-Tonon/Escola-de-Idiomas-Java/assets/102087529/772c7d2f-bada-4a7f-9fd8-e0d405800336)
+
 ![image](https://github.com/Letticia-Tonon/Escola-de-Idiomas-Java/assets/102087529/7bd12b45-5517-47e9-a717-ec7a909e1f68)
 
 
